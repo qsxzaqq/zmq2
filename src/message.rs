@@ -14,7 +14,7 @@ use super::errno_to_error;
 /// sent over the wire. Multipart messages are transmitted as multiple
 /// `Message`s.
 ///
-/// In rust-zmq, you aren't required to create message objects if you use the
+/// In zmq2, you aren't required to create message objects if you use the
 /// convenience APIs provided (e.g. `Socket::recv_bytes()` or
 /// `Socket::send()`). However, using message objects can make multiple
 /// operations in a loop more efficient, since allocated memory can be reused.

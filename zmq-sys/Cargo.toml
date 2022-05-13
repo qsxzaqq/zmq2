@@ -9,7 +9,7 @@ license = "MIT/Apache-2.0"
 description = "Low-level bindings to the zeromq library"
 keywords = ["ffi", "bindings"]
 categories = ["external-ffi-bindings"]
-repository = "https://github.com/erickt/rust-zmq"
+repository = "https://github.com/Traverse-Research/zmq2"
 build = "build/main.rs"
 links = "zmq"
 

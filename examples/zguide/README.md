@@ -11,7 +11,7 @@ The coding guidelines for porting examples is:
   the bindings. We want these to also highlight the differences in API
   usage and the higher-level abstractions provided, if applicable.
 
-Besides giving potential rust-zmq users an impression of the bindings,
+Besides giving potential zmq2 users an impression of the bindings,
 these examples are also intended as a "proving ground" for API
 additions and changes. Ideally, an API change should be reflected in
 changes to the examples that improve code quality (by whatever

@@ -1,6 +1,6 @@
-# Contributing to rust-zmq
+# Contributing to zmq2
 
-Thank you for your interest in contributing to rust-zmq!
+Thank you for your interest in contributing to zmq2!
 
 ## Bug reports
 
@@ -23,7 +23,7 @@ that need to be considered when tackling the feature.
 
 ## Pull requests
 
-rust-zmq uses the "fork and pull" model [described
+zmq2 uses the "fork and pull" model [described
 here](https://help.github.com/en/articles/about-collaborative-development-models). It
 is highly recommended that you create a dedicated branch in your
 repository for each pull request you submit, instead of submitting
@@ -33,7 +33,7 @@ avoid rewriting history on your fork's `master` branch (see below).
 
 ### Version history
 
-The rust-zmq project aims to keep the version history useful and
+The zmq2 project aims to keep the version history useful and
 reasonably simple. Thus, when preparing and updating your pull
 request, you should make liberal use of git's history rewriting
 capabilities, such as amending and squashing commits. Try to observe
